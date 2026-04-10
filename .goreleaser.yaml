@@ -1,0 +1,10 @@
+version: 2
+
+project_name: go-diff
+
+before:
+  hooks:
+  - go mod tidy
+
+builds:
+- skip: true

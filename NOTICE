@@ -1,0 +1,8 @@
+This repository contains code derived from the Go project:
+
+  https://go.dev/
+  https://github.com/golang/tools (path: internal/diff and internal/diff/lcs)
+
+Copyright and license: see LICENSE (BSD 3-Clause, The Go Authors).
+
+Per-file copyright years may vary; headers in source files are preserved from upstream.
